@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+output/
+tmp/
+.DS_Store
+docs/thesis psaugier.pdf
